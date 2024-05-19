@@ -3,7 +3,7 @@ const mysql = {
         {
             image : 'bck.jpg',
             title: "Sinopsis",
-            text: 'Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos. '
+            text: 'Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos. “Breaking Bad” ha sido ampliamente reconocida en la industria del entretenimiento y ha acumulado un impresionante número de premios y nominaciones a lo largo de sus cinco temporadas.  '
         }
     ],
 
