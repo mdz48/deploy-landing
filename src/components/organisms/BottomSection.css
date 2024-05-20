@@ -1,0 +1,7 @@
+#bottom {
+    background-color: #093009;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

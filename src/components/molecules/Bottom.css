@@ -1,12 +1,3 @@
-#bottom {
-    background-color: #093009;
-    color: white;
-    display: flex;
-    justify-content: space-evenly;
-    border: 1px solid wheat;
-    flex-wrap: wrap;
-}
-
 #bottom_columns {
     display: flex;
     flex-direction: column;
