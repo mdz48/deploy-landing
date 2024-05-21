@@ -36,14 +36,14 @@ const mysql = {
             text3: 'Clemente',
         },
         {
-            text1 : '1',
-            text2 : 'Diaz',
-            text3: 'Clemente',
+            text1 : 'Desarrollo',
+            text2 : 'De',
+            text3: 'Software',
         },
         {
-            text1 : '2',
-            text2 : 'Diaz',
-            text3: 'Clemente',
+            text1 : '3',
+            text2 : 'Cuatrimestre',
+            text3: 'Grupo C',
         }
     ]
 }

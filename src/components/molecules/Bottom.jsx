@@ -1,5 +1,4 @@
 import React from 'react'
-import mysql from '../../data/mysql'
 import Paragraphs from '../atoms/Paragraphs'
 
 export default function Bottom(props) {

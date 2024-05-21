@@ -2,7 +2,7 @@ import React from 'react'
 import mysql from '../../data/mysql'
 import Container from '../molecules/Container'
 import './SectionHero.css'
-import Top from '../molecules/Top'
+
 
 function SectionHero() {
   return (

@@ -1,5 +1,4 @@
 import React from 'react'
-import Paragraphs from '../atoms/Paragraphs'
 import mysql from '../../data/mysql'
 import './BottomSection.css'
 import Bottom from '../molecules/Bottom'
